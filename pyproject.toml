@@ -3,8 +3,8 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pytorch-ggd"
-version = "0.0.1"
+name = "pytorch_ggd"
+version = "0.0.2"
 description = "Generalized Gaussian distribution in pytorch "
 authors = [
     {name = "Dan Jacobellis", email = "danjacobellis@utexas.edu"}
